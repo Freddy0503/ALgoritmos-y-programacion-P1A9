@@ -1,12 +1,15 @@
+/// 00586943 Freddy Alexandro Torres Lopez
+/// Ing.TI
+
 Algoritmo CON04
 	Definir numero Como Entero
 	
-	Escribir "Ingresa un número:"
+	Escribir "Ingresa un nÃºmero:"
 	Leer numero
 	
 	Si numero MOD 2 = 0 Entonces
-		Escribir "El número ", numero, " es PAR"
+		Escribir "El nÃºmero ", numero, " es PAR"
 	SiNo
-		Escribir "El número ", numero, " es IMPAR"
+		Escribir "El nÃºmero ", numero, " es IMPAR"
 	FinSi
 FinAlgoritmo
