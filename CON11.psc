@@ -1,3 +1,6 @@
+/// 00586943 Freddy Alexandro Torres Lopez
+/// Ing.TI
+
 Algoritmo CON11
 	Definir importeBruto, importeNeto Como Real
 	
