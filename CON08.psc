@@ -1,7 +1,10 @@
+/// 00586943 Freddy Alexandro Torres Lopez
+/// Ing.TI
+
 Algoritmo CON08
 	Definir calificacion Como Entero
 	
-	Escribir "Ingresa una calificación entre 1 y 5:"
+	Escribir "Ingresa una calificaciÃ³n entre 1 y 5:"
 	Leer calificacion
 	
 	Segun calificacion Hacer
@@ -16,6 +19,6 @@ Algoritmo CON08
 		5:
 			Escribir "Equivalente: E"
 		De Otro Modo:
-			Escribir "Valor inválido. Solo se aceptan números del 1 al 5."
+			Escribir "Valor invÃ¡lido. Solo se aceptan nÃºmeros del 1 al 5."
 	FinSegun
 FinAlgoritmo
