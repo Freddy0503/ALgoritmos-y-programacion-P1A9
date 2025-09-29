@@ -1,16 +1,19 @@
+/// 00586943 Freddy Alexandro Torres Lopez
+/// Ing.TI
+
 Algoritmo CON06
 	Definir Dia Como Entero;
-	Escribir "Introduzca un número para ver con día corresponde: ";
+	Escribir "Introduzca un nÃºmero para ver con dÃ­a corresponde: ";
 	Leer Dia;
 	Segun Dia Hacer
 		1: Escribir "Lunes";
 		2: Escribir "Martes";
-		3: Escribir "Miércoles";
+		3: Escribir "MiÃ©rcoles";
 		4: Escribir "Jueves";
 		5: Escribir "Viernes";
-		6: Escribir "Sábado";
+		6: Escribir "SÃ¡bado";
 		7: Escribir "Domindo";
 		De Otro Modo:
-			Escribir "El número debe estar entre 1 y 7";
+			Escribir "El nÃºmero debe estar entre 1 y 7";
 	FinSegun
 FinAlgoritmo
