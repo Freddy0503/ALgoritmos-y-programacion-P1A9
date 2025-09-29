@@ -1,3 +1,6 @@
+/// 00586943 Freddy Alexandro Torres Lopez
+/// Ing.TI
+
 Algoritmo CON10
 	Definir edad Como Entero
 	Definir sexo Como Caracter
@@ -10,7 +13,7 @@ Algoritmo CON10
 	
 	Si sexo = "M" O sexo = "m" Entonces
 		Si edad >= 18 Entonces
-			Escribir "Puedes ingresar al espect·culo."
+			Escribir "Puedes ingresar al espect√°culo."
 		SiNo
 			Escribir "No puedes ingresar, eres menor de edad."
 		FinSi
