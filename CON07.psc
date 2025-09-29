@@ -1,7 +1,10 @@
+/// 00586943 Freddy Alexandro Torres Lopez
+/// Ing.TI
+
 Algoritmo CON07
 	Definir num Como Entero
 	
-	Escribir "Ingresa un número del 1 al 12:"
+	Escribir "Ingresa un nÃºmero del 1 al 12:"
 	Leer num
 	
 	Segun num Hacer
@@ -30,6 +33,6 @@ Algoritmo CON07
 		12:
 			Escribir "Diciembre"
 		De Otro Modo:
-			Escribir "Número inválido. Debe estar entre 1 y 12."
+			Escribir "NÃºmero invÃ¡lido. Debe estar entre 1 y 12."
 	FinSegun
 FinAlgoritmo
